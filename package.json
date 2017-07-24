@@ -1,6 +1,6 @@
 {
-  "name": "react-native-keyboard",
-  "version": "2.0.0",
+  "name": "elizabeth-tas-numpad",
+  "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {},
@@ -9,21 +9,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beefe/react-native-keyboard.git"
+    "url": "git+https://github.com/emflournoy/numpad"
   },
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/beefe/react-native-keyboard/issues"
-  },
-  "homepage": "https://github.com/beefe/react-native-keyboard#readme",
-  "gitHead": "e79e1eace4d0dab225ea07e7c3d02a2b7fb80b07",
-  "readme": "# keyboard",
+  "author": "Tasman Drake and Elizabeth Flournoy (via Beefe)",
+  "homepage": "https://github.com/emflournoy/numpad#readme",
   "readmeFilename": "README.md",
-  "_id": "react-native-keyboard@1.0.0",
-  "_shasum": "902d4878c1c66a2a8ef8075d674279ececd027a5",
-  "_from": "git+https://github.com/beefe/react-native-keyboard.git",
-  "_resolved": "git+https://github.com/beefe/react-native-keyboard.git#e79e1eace4d0dab225ea07e7c3d02a2b7fb80b07",
   "dependencies": {
     "expo": "^19.0.0"
   }
